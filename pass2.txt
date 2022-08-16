@@ -1,0 +1,11 @@
+admin
+user
+root
+123
+toor
+User
+Admin
+Root
+Toor
+/
+*
